@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">API_IBGE</string>
+    <string name="textViewApresentacao">Consumindo Recursos do IBGE</string>
+    <string name="autoCompleteTextViewEstado">Digite o Estado</string>
+    <string name="autoCompleteTextViewMunicipio">Digite o Município</string>
+    <string name="buttomStart">Processsar requisição</string>
+</resources>
